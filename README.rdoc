@@ -1,3 +1,3 @@
-Arquivos para o teste de desenvolvedor da viajanet, feito por Marcos Vinicius Dias Ferreira
+Arquivos para o teste de desenvolvedor da Viajanet, feito por Marcos Vinicius Dias Ferreira
 
-contato marcosvdf02@gmail.com
+contato: marcosvdf02@gmail.com
